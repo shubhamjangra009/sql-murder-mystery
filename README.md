@@ -6,7 +6,12 @@ A crime has taken place and the detective needs your help. The detective gave yo
 
 Start by retrieving the corresponding crime scene report from the police department’s database.
 
-#### *NOTE: _Read SQL Murder Mystery (Info).docx for detailed project info_
+### NOTE:
+- ___Read SQL Murder Mystery (Info).docx for detailed project info___
+- ___Check solution.sql query file for detailed project solution___
+- ___Check tasks_results.xlsx for each task query output results___
+- ____sql_murder_mystery.db and sql_murder_mystery.sql file attached___
+ 
 ## My Investigation Report:
 On Jan.15, 2018 a murder was commited in SQL City. When security footage was checked by police, they found that there were 2 witnesses named Annabel Miller from Franklin Ave and Morty Schapiro from last house from Northwestern Dr. When police interviewed them, Morty Schapiro told them that he heard the gunfire sounds and saw a man run out with 'Get Fit Now Gym' bag with membership number on the bag started with '48Z' those kind of bag only possesed ny gold members of gym and saw that the man got into a car with a plate that included 'H42W'. Annabel Miller was presented on the crime scene, he saw the murder happen and he recognizes the killer from his gym when he was working out last week on January the 9th. When police gathered the information from gym on 9th Jan 2018 there were 2 suspects that were presented at that time. And there were 3 suspects from the plate number including 'H42W' when police checked the personal information of all 3 from the license number there was one name which was common from the gym. It was 'Jeremy Bowers' and everything matched perfectly and thus police resolved this murder mystery.
 
